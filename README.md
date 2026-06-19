@@ -159,6 +159,8 @@ docker compose up --build
 
 ---
 
-## Autor
+## 🤝 Autor
 
-**Lazaro Miranda**
+**João Carser**  
+[github.com/JoaoCarser](https://github.com/JoaoCarser)
+
